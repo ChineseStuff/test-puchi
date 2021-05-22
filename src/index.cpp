@@ -5,3 +5,7 @@ int main(void){
 int otra(void){
     return 0;
 }
+
+int tercera(void){
+    return 0;
+}
