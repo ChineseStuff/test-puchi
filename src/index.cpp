@@ -3,7 +3,7 @@ int main(void){
 }
 
 int otra(void){
-    return 0;
+    return -1;
 }
 
 int tercera(void){
